@@ -9,6 +9,11 @@ The user is allowed to perform the following on a pdf based on his/her choice:
 5. Convert JPG, TIFF and PNG images to PDF.
 
 
+GOOD-TO-KNOW:
+The test pdf and image files are already provided. The API key is not. Please do get your know API key before executing the code.
+The Python Assignment-protected.pdf file is password protected. To use test file for "unlock" class use your own protected file.
+
+
 PRE-REQUISITES:
 1.	Jupyter Notebook
 2.	Your own API key from the ILovePdf Developer Website: https://developer.ilovepdf.com/tools
