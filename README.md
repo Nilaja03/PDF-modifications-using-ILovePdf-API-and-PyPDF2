@@ -9,6 +9,10 @@ The user is allowed to perform the following on a pdf based on his/her choice:
 5. Convert JPG, TIFF and PNG images to PDF.
 
 
+GOOD-TO-KNOW:
+1. The test pdf and image files are already provided. The API key is not. Please do get your know API key before executing the code.
+
+
 PRE-REQUISITES:
 1.	Jupyter Notebook
 2.	Your own API key from the ILovePdf Developer Website: https://developer.ilovepdf.com/tools
