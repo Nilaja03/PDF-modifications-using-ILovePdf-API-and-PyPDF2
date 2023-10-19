@@ -11,6 +11,7 @@ The user is allowed to perform the following on a pdf based on his/her choice:
 
 GOOD-TO-KNOW:
 1. The test pdf and image files are already provided. The API key is not. Please do get your know API key before executing the code.
+2. The Python Assignment-protected.pdf file is password protected. To use test file for "unlock" class use your own protected file.
 
 
 PRE-REQUISITES:
